@@ -1,0 +1,12 @@
+{
+   "android":{
+      "version_code":"1.1.0",
+      "isforce":"true""text":"Android 更新文案",
+      "url":"https://github.com/ahqchang/AppUpdater/blob/feature/testing/caishen/apks/meeline_cs_1.0.023_2.apk?raw=true"
+   },
+   "ios":{
+      "version_code":"1.1.0",
+      "isforce":"true""text":"iOS 更新文案",
+      "url":"https://github.com/ahqchang/AppUpdater/blob/feature/testing/caishen/apks/MLChatDev1.0.8.ipa?raw=true"
+   }
+}
