@@ -1,12 +1,14 @@
 {
    "android":{
       "version_code":"1.1.0",
-      "isforce":"true""text":"Android 更新文案",
+      "isforce":"true",
+	  "text":"Android 更新文案",
       "url":"https://www.google.com"
    },
    "ios":{
       "version_code":"1.1.0",
-      "isforce":"true""text":"iOS 更新文案",
+      "isforce":"true",
+	  "text":"iOS 更新文案",
       "url":"https://www.google.com"
    }
 }
