@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dafaChatClient.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BE41698775BF5F78F73ECF40AF277B9593BF420B</string>
+				<key>dateExpires</key>
+				<string>2021/9/7</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BE41698775BF5F78F73ECF40AF277B9593BF420B</string>
+						<key>dateExpires</key>
+						<string>2021/9/7</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>WebRTC.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>ZQ6J7X8399</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>ZQ6J7X8399.com.MiliaoChat.chatClient</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>ZQ6J7X8399</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>ZQ6J7X8399.com.MiliaoChat.chatClient</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>dafaChatClient.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>aa12f352-14ae-4a3d-8cc4-744d23631873</string>
+				<key>name</key>
+				<string>MLCharProHoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>ZQ6J7X8399</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
